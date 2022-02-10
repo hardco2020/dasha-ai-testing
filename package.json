@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/hardco2020/dasha-ai-testing/issues"
   },
-  "homepage": "https://github.com/hardco2020/dasha-ai-testing#readme"
+  "homepage": "https://github.com/hardco2020/dasha-ai-testing#readme",
+  "dependencies": {
+    "@dasha.ai/sdk": "^0.8.0"
+  }
 }

@@ -1,0 +1,22 @@
+{
+    "version": "v2",
+    "intents": {
+      "track_parcel": {
+        "includes": [
+          "track parcel",
+          "track package",
+          "where is my package",
+          "where is my parcel",
+          "you know I'd like to track my package please"
+        ]
+      },
+      "missed_delivery": {
+        "includes": [
+          "i missed the delivery",
+          "missed my delivery",
+          "how can I reschedule delivery",
+          "is there a way to schedule delivery again"
+        ]
+      }
+    }
+  }
